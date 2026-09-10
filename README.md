@@ -12,3 +12,4 @@ plt.axvline(x=20, color='gray', linestyle=':')
 plt.legend()
 plt.title("Galpón v1 - No cierres, más preguntas")
 plt.show()
+plt.show
